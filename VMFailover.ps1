@@ -5,6 +5,8 @@
 # network and run on your HyperV server with #
 # Administrator privileges.                  #
 #                                            #
+# Note: VMs must be running at all times.    #
+#                                            #
 # Add or remove systems at #System comments  #
 # Don't forget to add or remove $count for   #
 # system just below this comment box.        #
