@@ -1,4 +1,4 @@
-# Automated-Physical-to-VM-Failover
+# Automated Physical to VM Failover
 
 This script will monitor physical system connection to your network. If the physical system has no connection after 3 attempts to connect, the script will momentarily enable network connection for the VM to take over on your network. The script will continue attempting to connect to your physical system on each cycle. Once a connection to your physical system is established, the script will disable the network connection to the VM and continue monitoring the physical system.
 
